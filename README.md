@@ -2,13 +2,6 @@
   <img src="assets/pixel-workspace.png" width="100%" alt="NNK1402 — Build. Learn. Repeat. Góc bàn lập trình pixel art với màn hình xanh mint, sách và ánh đèn thành phố về đêm." />
 </p>
 
-<h1 align="center">Chào bạn, mình là Nguyễn Nam Khoa 👋</h1>
-
-<p align="center">
-  Mình học lập trình bằng cách xây dựng những ứng dụng có thể dùng mỗi ngày.<br />
-  Từ Java đến C# và WPF, mỗi dự án là một cơ hội để làm tốt hơn một chút.
-</p>
-
 <p align="center">
   <a href="#dự-án-nổi-bật">Dự án nổi bật</a> ·
   <a href="#công-nghệ-mình-đang-dùng">Công nghệ</a> ·
@@ -17,10 +10,8 @@
 
 ## Một chút về mình
 
-- 🛠️ Đang xây dựng **Pomodoro**: ứng dụng tập trung trên Windows, có hình nền ảnh/video và danh sách công việc.
-- 🌱 Thực hành **C#, WPF, .NET và Java** qua các dự án cá nhân.
-- 🎮 Thích đưa nét **pixel art** vào những giao diện gọn gàng, dễ dùng.
-- 🎯 Quan tâm đến cách tổ chức code, trải nghiệm sử dụng và những chi tiết nhỏ trong giao diện.
+- Học tại Đại học FPT
+- Biết edit video
 
 ## Dự án nổi bật
 

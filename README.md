@@ -10,7 +10,7 @@
 
 ## Một chút về mình
 
-- Học tại Đại học FPT
+- Sinh viên kỹ thuật phần mềm tại Đại học FPT
 - Biết edit video
 
 ## Dự án nổi bật
